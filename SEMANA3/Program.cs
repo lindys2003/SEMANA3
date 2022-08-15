@@ -13,7 +13,7 @@ namespace SEMANA3
             {
                 if (nota >= 6) 
                 {
-                    Console.WriteLine("Aprovado");
+                    Console.WriteLine("Aprobado");
                 } 
                 else if (nota >= 5.0)
                 {
